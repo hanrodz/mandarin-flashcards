@@ -3,13 +3,55 @@
 #notetype:Mandarin Vocabulary
 #deck:Mandarin::Vocabulary
 #columns:Hanzi	Pinyin	English	ExampleHanzi	ExamplePinyin	ExampleEnglish	Notes
-你好	nǐ hǎo	hello	你好，很高兴认识你。	Nǐ hǎo, hěn gāoxìng rènshi nǐ.	Hello, nice to meet you.	Standard greeting; literally "you good".
-谢谢	xièxie	thank you	谢谢你的帮助。	Xièxie nǐ de bāngzhù.	Thanks for your help.	Reply with 不客气 (bù kèqi) — "you're welcome".
-对不起	duìbuqǐ	sorry / excuse me	对不起，我迟到了。	Duìbuqǐ, wǒ chídào le.	Sorry, I'm late.	More formal than 不好意思 (bù hǎoyìsi).
-吃	chī	to eat	你吃饭了吗？	Nǐ chīfàn le ma?	Have you eaten?	Common greeting around mealtimes.
-水	shuǐ	water	请给我一杯水。	Qǐng gěi wǒ yì bēi shuǐ.	Please give me a glass of water.	Measure word: 杯 (bēi) for cups/glasses.
-学习	xuéxí	to study / learn	我在学习中文。	Wǒ zài xuéxí Zhōngwén.	I am studying Chinese.	学 alone also means "to learn"; 习 implies practice.
+猫	māo	cat	我有一只猫。	Wǒ yǒu yì zhī māo.	I have a cat.	Measure word: 只 (zhī) for most animals.
+熊	xióng	bear	那只熊很大。	Nà zhī xióng hěn dà.	That bear is very big.	Also slang for "lousy" or "weak" in some contexts.
+熊猫	xióngmāo	panda	熊猫来自中国。	Xióngmāo láizì Zhōngguó.	Pandas come from China.	Literally "bear-cat".
+妈妈	māma	mom	我妈妈是老师。	Wǒ māma shì lǎoshī.	My mom is a teacher.	More formal: 母亲 (mǔqīn).
+爷爷	yéye	grandpa (paternal)	爷爷今年八十岁。	Yéye jīnnián bāshí suì.	Grandpa is eighty this year.	Maternal grandfather is 外公 (wàigōng).
+奶奶	nǎinai	grandma (paternal)	奶奶做的饭很好吃。	Nǎinai zuò de fàn hěn hǎochī.	Grandma's cooking is delicious.	Maternal grandmother is 外婆 (wàipó).
+爸爸	bàba	dad	爸爸在工作。	Bàba zài gōngzuò.	Dad is working.	More formal: 父亲 (fùqīn).
 朋友	péngyou	friend	他是我的好朋友。	Tā shì wǒ de hǎo péngyou.	He is my good friend.	好朋友 = "good/close friend".
-今天	jīntiān	today	今天天气很好。	Jīntiān tiānqì hěn hǎo.	The weather is great today.	昨天 = yesterday, 明天 = tomorrow.
-喜欢	xǐhuan	to like	我喜欢喝茶。	Wǒ xǐhuan hē chá.	I like to drink tea.	Followed by a verb or noun.
+再见	zàijiàn	goodbye / see you	老师，再见！	Lǎoshī, zàijiàn!	Goodbye, teacher!	Literally "again see".
+漂亮	piàoliang	beautiful / pretty	她很漂亮。	Tā hěn piàoliang.	She is very pretty.	Used for things and people; 美丽 (měilì) is more literary.
+谢谢	xièxie	thanks	谢谢！	Xièxie!	Thanks!	Casual; second 谢 is neutral tone.
+谢谢你	xièxie nǐ	thank you	谢谢你的帮助。	Xièxie nǐ de bāngzhù.	Thank you for your help.	Slightly more personal than just 谢谢.
+不谢	bú xiè	you're welcome / not at all	不谢，这是我应该做的。	Bú xiè, zhè shì wǒ yīnggāi zuò de.	Not at all, it's what I should do.	不 changes to bú before a 4th-tone syllable.
+不客气	bú kèqi	you're welcome	——谢谢！——不客气。	—Xièxie! —Bú kèqi.	—Thanks! —You're welcome.	Literally "don't be polite". Tone sandhi: bù → bú.
+对不起	duìbuqǐ	sorry	对不起，我迟到了。	Duìbuqǐ, wǒ chídào le.	Sorry, I'm late.	More formal than 不好意思 (bù hǎoyìsi).
+没关系	méi guānxi	no worries / it's ok	——对不起！——没关系。	—Duìbuqǐ! —Méi guānxi.	—Sorry! —It's ok.	Standard reply to an apology.
+你好	nǐ hǎo	hello	你好，很高兴认识你。	Nǐ hǎo, hěn gāoxìng rènshi nǐ.	Hello, nice to meet you.	Both syllables 3rd tone → first becomes 2nd: ní hǎo.
+你	nǐ	you	你是学生吗？	Nǐ shì xuésheng ma?	Are you a student?	Informal singular "you".
+您	nín	you (formal)	您好，老师。	Nín hǎo, lǎoshī.	Hello, teacher.	Polite/respectful form of 你.
+们	men	(plural suffix)	朋友们都来了。	Péngyoumen dōu lái le.	The friends have all come.	Pluralizes pronouns and people-nouns. Always neutral tone.
+你们	nǐmen	you (plural)	你们是中国人吗？	Nǐmen shì Zhōngguórén ma?	Are you (all) Chinese?	你 + 们.
+我	wǒ	I / me	我叫小明。	Wǒ jiào Xiǎo Míng.	I'm called Xiao Ming.	Same word for subject and object.
+我们	wǒmen	we / us	我们是朋友。	Wǒmen shì péngyou.	We are friends.	我 + 们. Inclusive form: 咱们 (zánmen).
+心	xīn	heart	他有一颗善良的心。	Tā yǒu yì kē shànliáng de xīn.	He has a kind heart.	Measure word: 颗 (kē). Also "mind/feelings".
+康	kāng	healthy / well-being	康是健康的康。	Kāng shì jiànkāng de kāng.	Kāng is the kāng in jiànkāng.	Rarely used alone today; mostly in compounds and names.
+健康	jiànkāng	health / healthy	祝你身体健康！	Zhù nǐ shēntǐ jiànkāng!	Wishing you good health!	Common toast and birthday wish.
+不	bù	not (negation particle)	我不喝咖啡。	Wǒ bù hē kāfēi.	I don't drink coffee.	Becomes bú before a 4th-tone syllable.
+叫	jiào	to call / to be called	你叫什么名字？	Nǐ jiào shénme míngzi?	What is your name?	Also "to shout".
+他	tā	he / him	他是我哥哥。	Tā shì wǒ gēge.	He is my older brother.	Same pronunciation as 她 and 它.
+她	tā	she / her	她是我妈妈。	Tā shì wǒ māma.	She is my mom.	Female-specific 他; introduced in the 20th century.
+在	zài	in / at (preposition); to be at	我在学校。	Wǒ zài xuéxiào.	I am at school.	Also a progressive marker: 我在吃 (I am eating).
+学校	xuéxiào	school	这个学校很大。	Zhège xuéxiào hěn dà.	This school is very big.	学 (study) + 校 (school).
+工作	gōngzuò	work / job; to work	我喜欢我的工作。	Wǒ xǐhuan wǒ de gōngzuò.	I like my job.	Both noun and verb.
+教室	jiàoshì	classroom	老师在教室里。	Lǎoshī zài jiàoshì lǐ.	The teacher is in the classroom.	教 (teach) + 室 (room).
+什么	shénme	what	这是什么？	Zhè shì shénme?	What is this?	Often colloquially shortened to 啥 (shá).
+名字	míngzi	name	我的名字叫安娜。	Wǒ de míngzi jiào Ānnà.	My name is Anna.	字 is neutral tone here.
+的	de	(possessive / modifier particle)	这是我的书。	Zhè shì wǒ de shū.	This is my book.	Most common Chinese particle; always neutral tone.
+我的	wǒde	my / mine	这本书是我的。	Zhè běn shū shì wǒde.	This book is mine.	我 + 的; can also stand alone meaning "mine".
+你的	nǐde	your / yours	你的名字很好听。	Nǐde míngzi hěn hǎotīng.	Your name sounds nice.	你 + 的.
+是	shì	to be / yes	我是学生。	Wǒ shì xuésheng.	I am a student.	Used to link nouns; not used before adjectives.
+不是	búshì	no / is not	他不是老师。	Tā búshì lǎoshī.	He is not a teacher.	Tone sandhi: bù → bú before 是 (4th tone).
+老师	lǎoshī	teacher	王老师很好。	Wáng lǎoshī hěn hǎo.	Teacher Wang is very nice.	Used after a surname as a respectful title.
+学生	xuésheng	student	我是大学生。	Wǒ shì dàxuéshēng.	I am a university student.	生 is neutral tone here.
+吗	ma	(yes/no question particle)	你好吗？	Nǐ hǎo ma?	How are you?	Placed at the end to turn a statement into a yes/no question.
+人	rén	person / people	那个人是谁？	Nàge rén shì shéi?	Who is that person?	Also used as a nationality suffix (see below).
 中国	Zhōngguó	China	我想去中国旅游。	Wǒ xiǎng qù Zhōngguó lǚyóu.	I want to travel to China.	Literally "Middle Country/Kingdom".
+美国	Měiguó	USA	他来自美国。	Tā láizì Měiguó.	He comes from the USA.	Literally "Beautiful Country".
+墨西哥	Mòxīgē	Mexico	墨西哥菜很好吃。	Mòxīgē cài hěn hǎochī.	Mexican food is delicious.	Phonetic transliteration.
+中国人	Zhōngguórén	Chinese (person)	我是中国人。	Wǒ shì Zhōngguórén.	I am Chinese.	Country + 人 = nationality.
+美国人	Měiguórén	American (person)	她是美国人。	Tā shì Měiguórén.	She is American.	美国 + 人.
+墨西哥人	Mòxīgērén	Mexican (person)	我朋友是墨西哥人。	Wǒ péngyou shì Mòxīgērén.	My friend is Mexican.	墨西哥 + 人.
+这	zhè	this	这是我的书。	Zhè shì wǒ de shū.	This is my book.	Often pronounced zhèi in colloquial speech, especially before a measure word.
