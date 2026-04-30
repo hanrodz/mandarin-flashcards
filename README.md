@@ -39,7 +39,7 @@ A starter Anki note type and example deck for studying Mandarin vocabulary.
    - Deck: `Mandarin::Vocabulary`
    - Fields separated by: **Tab**
    - **Allow HTML in fields**: ✅ checked
-3. Click **Import**. You should get 10 new cards.
+3. Click **Import**. You should get the new cards.
 
 > The header lines in `cards.tsv` (starting with `#`) tell Anki which note type, deck, and field order to use, so most settings are auto-detected.
 
