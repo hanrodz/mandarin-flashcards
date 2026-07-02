@@ -39,7 +39,7 @@
 教室	jiàoshì	classroom	老师在教室里。	Lǎoshī zài jiàoshì lǐ.	The teacher is in the classroom.	
 什么	shénme	what	这是什么？	Zhè shì shénme?	What is this?	Typically followed by a noun: 什么书 (what book), 什么时候 (when). Contrast with 怎么 (zěnme, "how"), which is followed by a verb.
 名字	míngzi	name	我的名字叫安娜。	Wǒ de míngzi jiào Ānnà.	My name is Anna.	字 is neutral tone here.
-的	de	(possessive / modifier particle)	这是我的书。	Zhè shì wǒ de shū.	This is my book.	Most common Chinese particle; always neutral tone.
+的	de	(possessive / modifier particle)	这是我的书。	Zhè shì wǒ de shū.	This is my book.	Most common Chinese particle; always neutral tone. Often OMITTED with close relationships and personal institutions: 我妈妈 (not 我的妈妈), 我朋友, 我家, 我们学校, 我们公司.
 我的	wǒde	my / mine	这本书是我的。	Zhè běn shū shì wǒde.	This book is mine.	Can also stand alone meaning "mine".
 你的	nǐde	your / yours	你的名字很好听。	Nǐde míngzi hěn hǎotīng.	Your name sounds nice.	
 是	shì	to be / yes	我是学生。	Wǒ shì xuésheng.	I am a student.	Used to link nouns; not used before adjectives.
@@ -236,6 +236,7 @@
 肌肉	jīròu	muscle	他的肌肉很大。	Tā de jīròu hěn dà.	His muscles are big.	⚠️ True homophone of 鸡肉 (chicken meat); context disambiguates.
 米饭	mǐfàn	(cooked) rice	请给我一碗米饭。	Qǐng gěi wǒ yì wǎn mǐfàn.	Please give me a bowl of rice.	Three related words: 米 = raw rice, 饭 = a meal / cooked rice generically, 米饭 = specifically cooked white rice. Measure word: 碗 (wǎn, bowl).
 和	hé	and (between nouns)	我和你都是学生。	Wǒ hé nǐ dōu shì xuésheng.	You and I are both students.	The standard conjunction "and" for joining noun-like items: 茶和咖啡 (tea and coffee), 爸爸和妈妈 (dad and mom). NOT used to join clauses or verbs — for those use 然后 (then), 而且 (moreover), or just no conjunction. Also a verb "to harmonize" and a common surname.
+与	yǔ	and; with (formal)	中国与世界	Zhōngguó yǔ shìjiè	China and the world	Formal/written equivalent of 和, used to in headlines and literary contexts: 战争与和平 (War and Peace). Rare in everyday speech.
 好的	hǎo de	okay / sure / alright / got it	——明天见！——好的！	—Míngtiān jiàn! —Hǎo de!	—See you tomorrow! —Okay!	A soft acknowledgement, slightly more polite than bare 好. In text/chat often shortened to 好 or 好滴.
 饭	fàn	meal; cooked rice	该吃饭了。	Gāi chīfàn le.	Time to eat.	Two related meanings: (1) cooked rice (米饭), (2) a meal generally (吃饭 = eat a meal).
 早饭	zǎofàn	breakfast	我早饭吃面包。	Wǒ zǎofàn chī miànbāo.	I have bread for breakfast.	Slightly more formal synonym: 早餐 (zǎocān).
@@ -269,3 +270,17 @@
 多少	duōshao	how much / how many	你们班有多少学生？	Nǐmen bān yǒu duōshao xuésheng?	How many students are in your class?	多 (many) + 少 (few). For larger or unknown quantities (no upper limit). Compare 几 (jǐ), used for small numbers (under ~10). Most common collocation: 多少钱 (how much / how much does it cost). 少 here is read as neutral tone shao.
 钱	qián	money	我没钱了。	Wǒ méi qián le.	I'm out of money.	Measure words for amounts: colloquial 块/毛/分 vs. formal 元/角/分. Pattern: number + 块(钱) = N yuan (五块钱 = 5 yuan).
 多少钱	duōshao qián	how much (does it cost)?	这个多少钱？	Zhège duōshao qián?	How much is this?	The standard price question. Pattern: noun + 多少钱: 这个多少钱? (how much is this?), 一斤多少钱? (how much per jin?). Reply pattern: number + 块(钱): 五块钱 = 5 yuan, 二十块 = 20 yuan.
+工程师	gōngchéngshī	engineer	我爸爸是工程师。	Wǒ bàba shì gōngchéngshī.	My dad is an engineer.	师 is a common professional suffix: 老师, 医师 (yīshī, physician), 律师 (lǜshī, lawyer).
+多少岁了	duōshao suì le	how old (is someone)?	你多少岁了？	Nǐ duōshao suì le?	How old are you?	Same meaning and usage as 多大了. For children under ~10, use 几岁了 instead.
+椅子	yǐzi	chair	这把椅子很舒服。	Zhè bǎ yǐzi hěn shūfu.	This chair is comfortable.	Measure word: 把 (bǎ), used for things you grip.
+把	bǎ	(measure word for things with a handle / that you grip)	我买了一把伞。	Wǒ mǎi le yì bǎ sǎn.	I bought an umbrella.	Used for items with a handle or that you grip: 椅子 (chair), 伞 (umbrella), 刀 (knife), 钥匙 (key). Also a common grammatical particle (把 construction) — different use.
+奶	nǎi	milk	我早上喝牛奶。	Wǒ zǎoshang hē niúnǎi.	I drink milk in the morning.	Usually appears as 牛奶 (niúnǎi, "cow milk") for the everyday drink. Also in 奶奶 (grandma) and 奶茶 (milk tea).
+奶茶	nǎichá	milk tea	我想喝一杯奶茶。	Wǒ xiǎng hē yì bēi nǎichá.	I want a cup of milk tea.	Hugely popular in China and Taiwan. Bubble tea = 珍珠奶茶 (zhēnzhū nǎichá).
+要	yào	to want; to need / must; will	我要一杯咖啡。	Wǒ yào yì bēi kāfēi.	I want a cup of coffee.	Multiple uses: (1) want (with object), more direct than 想. (2) need/must (with verb): 我要走了 = "I have to go". (3) future/will: 明天要下雨 (it's going to rain tomorrow). Compare 想 (softer, "would like").
+想要	xiǎng yào	to want (softer / would like)	我想要一杯茶。	Wǒ xiǎng yào yì bēi chá.	I'd like a cup of tea.	Combines 想 (would like) + 要 (want). Slightly more polite than 要 alone; common when requesting or expressing desires.
+角	jiǎo	0.1 yuan (formal)	一元等于十角。	Yì yuán děngyú shí jiǎo.	1 yuan equals 10 jiao.	Formal/written unit for 1/10 of 元. Colloquial equivalent: 毛 (máo). Seen on prices and receipts; rarely spoken.
+毛	máo	0.1 yuan (colloquial)	这个五毛钱。	Zhège wǔ máo qián.	This costs 5 mao (0.5 yuan).	Colloquial unit for 1/10 of 元 (= 块). Formal equivalent: 角 (jiǎo). Also means "hair/fur/feather".
+字母	zìmǔ	letter (of an alphabet)	英文有二十六个字母。	Yīngwén yǒu èrshíliù ge zìmǔ.	English has 26 letters.	Refers to alphabet letters (Latin, Greek, etc.), NOT Chinese characters — those are 字 (zì).
+客	kè	guest / customer	今天家里有客人。	Jīntiān jiā lǐ yǒu kèrén.	We have guests at home today.	Rarely stands alone; appears in compounds: 客人 (guest), 顾客 (gùkè, customer), 客厅 (living room), 客气 (polite), 请客 (treat sb).
+厅	tīng	hall / large room	餐厅在楼下。	Cāntīng zài lóuxià.	The dining room is downstairs.	Suffix for large rooms/halls: 客厅 (living room), 餐厅 (dining room/restaurant), 舞厅 (wǔtīng, dance hall).
+客厅	kètīng	living room	我们在客厅看电视。	Wǒmen zài kètīng kàn diànshì.	We're watching TV in the living room.	Literally "guest hall" — the main reception/social room of a home.
