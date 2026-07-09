@@ -35,7 +35,7 @@
 她	tā	she / her	她是我妈妈。	Tā shì wǒ māma.	She is my mom.	Female-specific 他; same pronunciation as 他 and 它.
 在	zài	in / at (preposition); to be at	我在学校。	Wǒ zài xuéxiào.	I am at school.	Also a progressive marker: 我在吃 (I am eating).
 学校	xuéxiào	school	这个学校很大。	Zhège xuéxiào hěn dà.	This school is very big.	
-工作	gōngzuò	work / job; to work	我喜欢我的工作。	Wǒ xǐhuan wǒ de gōngzuò.	I like my job.	Both noun and verb.
+工作	gōngzuò	work / job; to work	我喜欢我的工作。我在公司工作。	Wǒ xǐhuan wǒ de gōngzuò. I work at the company.	I like my job.	Both noun and verb. As a verb, follows the location adverb.
 教室	jiàoshì	classroom	老师在教室里。	Lǎoshī zài jiàoshì lǐ.	The teacher is in the classroom.	
 什么	shénme	what	这是什么？	Zhè shì shénme?	What is this?	Typically followed by a noun: 什么书 (what book), 什么时候 (when). Contrast with 怎么 (zěnme, "how"), which is followed by a verb.
 名字	míngzi	name	我的名字叫安娜。	Wǒ de míngzi jiào Ānnà.	My name is Anna.	字 is neutral tone here.
@@ -105,7 +105,7 @@
 条	tiáo	(measure word for long, thin things)	我买了一条裤子。	Wǒ mǎi le yì tiáo kùzi.	I bought a pair of pants.	Used for long/thin items: pants, fish, roads, rivers, dogs (sometimes), news items.
 种	zhǒng	(measure word for kinds / types)	这种茶很好喝。	Zhè zhǒng chá hěn hǎohē.	This kind of tea is delicious.	Means "kind/type/sort". Pattern: 这/那/哪 + 种 + noun.
 块	kuài	(measure word for money / pieces / chunks; colloquial for yuan)	这块蛋糕很好吃。	Zhè kuài dàngāo hěn hǎochī.	This piece of cake is delicious.	Used for chunks (cake, soap, stone). Also the colloquial measure word for money (¥): 五块钱 = 5 yuan. Formal equivalent for money: 元 (yuán).
-一	yī	one	我有一个哥哥。	Wǒ yǒu yí ge gēge.	I have an older brother.	Tone sandhi: yī → yí before a 4th-tone syllable (yí ge, yí kuài); yī → yì before 1st/2nd/3rd-tone syllables (yì zhī, yì běn, yì zhāng). Stays yī when counting or at the end.
+一	yī / yāo	one	我有一个哥哥。	Wǒ yǒu yí ge gēge.	I have an older brother.	Tone sandhi: yī → yí before a 4th-tone syllable (yí ge, yí kuài); yī → yì before 1st/2nd/3rd-tone syllables (yì zhī, yì běn, yì zhāng). Stays yī when counting or at the end. Also read as yāo in phone numbers, room numbers, and other digit-by-digit contexts to avoid confusion with 七 (qī).
 二	èr	two	我有二十块钱。	Wǒ yǒu èrshí kuài qián.	I have 20 yuan.	Used for counting and in compound numbers (二十 = 20). Before a measure word, use 两 (liǎng) instead: 两个人.
 两	liǎng	two (of something)	我有两只猫。	Wǒ yǒu liǎng zhī māo.	I have two cats.	Used before a measure word instead of 二.
 三	sān	three	三个朋友	sān ge péngyou	three friends	
@@ -145,7 +145,7 @@
 喝	hē	to drink	你想喝什么？	Nǐ xiǎng hē shénme?	What do you want to drink?	
 会	huì	can / to know how to; will; to meet; meeting	我会说中文。	Wǒ huì shuō Zhōngwén.	I can speak Chinese.	Multiple uses: (1) auxiliary — learned ability/skill (我会说中文 = I can speak Chinese); compare 能 (néng, physical/situational ability) and 可以 (kěyǐ, permission). (2) future marker — 我会来 (I will come). (3) verb "to meet/get together" — 会朋友 (meet a friend); seen in 幸会 (xìnghuì, nice to meet you) and 再会 (zàihuì, see you again). (4) noun "meeting/gathering" — 开会 (kāihuì, hold/be in a meeting), 会议 (huìyì, meeting/conference). Different reading: 会 (kuài) only in 会计 (kuàijì, accounting).
 说	shuō	to speak / to say	他说得很快。	Tā shuō de hěn kuài.	He speaks very fast.	说话 (shuō huà) = "to speak/talk" generally. 说 + language = speak that language: 说中文.
-现在	xiànzài	now	现在几点？	Xiànzài jǐ diǎn?	What time is it now?	
+现在	xiànzài	now / at present	现在几点？	Xiànzài jǐ diǎn?	What time is it now?	Time adverb — placed at the start of the sentence or before the verb.
 饿	è	hungry	我很饿。	Wǒ hěn è.	I'm very hungry.	An adjective, so usually paired with 很.
 少	shǎo	few / little / less	这里人很少。	Zhèlǐ rén hěn shǎo.	There are few people here.	Opposite: 多 (duō, many/more).
 小	xiǎo	small; young	这个房间很小。	Zhège fángjiān hěn xiǎo.	This room is very small.	Opposite: 大 (dà, big).
@@ -307,3 +307,17 @@
 下午好	xiàwǔ hǎo	good afternoon	下午好，各位！	Xiàwǔ hǎo, gèwèi!	Good afternoon, everyone!	Less common in casual speech than 早上好 / 晚上好; more typical in formal or professional settings.
 晚上好	wǎnshang hǎo	good evening	晚上好！欢迎光临。	Wǎnshang hǎo! Huānyíng guānglín.	Good evening! Welcome.	Used from evening onward. NOT interchangeable with 晚安 (which is for going to bed).
 晚安	wǎn'ān	good night	晚安，做个好梦！	Wǎn'ān, zuò ge hǎo mèng!	Good night, sweet dreams!	Literally "night peace" — used only when parting for the night / going to bed, NOT as a general evening greeting.
+正在	zhèngzài	(in the middle of) doing / -ing (adverb)	我正在吃饭。	Wǒ zhèngzài chīfàn.	I'm (in the middle of) eating.	Goes BEFORE the verb.
+过去	guòqù	past / in the past; to pass by / go over	过去他住在中国。	Guòqù tā zhù zài Zhōngguó.	In the past he lived in China.	Time adverb — placed at the start of the sentence or before the verb.
+未来	wèilái	future / in the future	未来你想做什么？	Wèilái nǐ xiǎng zuò shénme?	What do you want to do in the future?	Time adverb — placed at the start of the sentence or before the verb.
+上	shàng	up / on / above; previous; to attend / go to	书在桌子上。	Shū zài zhuōzi shàng.	The book is on the table.	As locative, goes AFTER the noun.
+上面	shàngmiàn	on top / above (locative)	书在桌子上面。	Shū zài zhuōzi shàngmiàn.	The book is on top of the table.	Goes AFTER the reference object.
+下	xià	down / below / under; next; to get off / descend	猫在桌子下。	Māo zài zhuōzi xià.	The cat is under the table.	As locative, goes AFTER the noun.
+下面	xiàmiàn	under / below (locative)	猫在椅子下面。	Māo zài yǐzi xiàmiàn.	The cat is under the chair.	Goes AFTER the reference object.
+手机号	shǒujī hào	phone number / cell number	我的手机号是一三九……	Wǒ de shǒujī hào shì yāo sān jiǔ……	My phone number is 139...	Full form: 手机号码 (shǒujī hàomǎ).
+你的手机号是多少	nǐ de shǒujī hào shì duōshao	what's your phone number?	你的手机号是多少？	Nǐ de shǒujī hào shì duōshao?	What's your phone number?	
+医院	yīyuàn	hospital	他在医院工作。	Tā zài yīyuàn gōngzuò.	He works at the hospital.	Measure word: 家 (jiā).
+医生	yīshēng	doctor	我姐姐是医生。	Wǒ jiějie shì yīshēng.	My older sister is a doctor.	
+复习	fùxí	to review (study)	我正在复习汉字。	Wǒ zhèngzài fùxí Hànzì.	I'm reviewing Chinese characters.	
+预习	yùxí	to preview / prepare (study)	上课前要预习。	Shàngkè qián yào yùxí.	You should preview before class.	
+我在公司工作	wǒ zài gōngsī gōngzuò	I work at the company	我在公司工作。	Wǒ zài gōngsī gōngzuò.	I work at the company.	Pattern: Subject + 在 + PLACE + VERB. Location goes BEFORE the verb.
