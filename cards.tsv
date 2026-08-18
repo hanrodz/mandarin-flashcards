@@ -33,7 +33,7 @@
 叫	jiào	to call / to be called / to shout	你叫什么名字？	Nǐ jiào shénme míngzi?	What is your name?	Also used for shouting (别叫 = don't shout) and animal cries (狗叫 = a dog barks).
 他	tā	he / him	他是我哥哥。	Tā shì wǒ gēge.	He is my older brother.	Same pronunciation as 她 and 它.
 她	tā	she / her	她是我妈妈。	Tā shì wǒ māma.	She is my mom.	Female-specific 他; same pronunciation as 他 and 它.
-在	zài	in / at (preposition); to be at	我在学校。	Wǒ zài xuéxiào.	I am at school.	Also a progressive marker: 我在吃 (I am eating).
+在	zài	in / at (preposition); to be at; (progressive marker: -ing)	我在学校。	Wǒ zài xuéxiào.	I am at school.	
 学校	xuéxiào	school	这个学校很大。	Zhège xuéxiào hěn dà.	This school is very big.	
 工作	gōngzuò	work / job; to work	我喜欢我的工作。我在公司工作。	Wǒ xǐhuan wǒ de gōngzuò. I work at the company.	I like my job.	Both noun and verb. As a verb, follows the location adverb.
 教室	jiàoshì	classroom	老师在教室里。	Lǎoshī zài jiàoshì lǐ.	The teacher is in the classroom.	
@@ -343,7 +343,7 @@
 电话	diànhuà	telephone / phone call	请给我打电话。	Qǐng gěi wǒ dǎ diànhuà.	Please give me a call.	Verb collocation for "make a call": 打电话 (dǎ diànhuà, lit. "hit a call").
 电话号	diànhuàhào	phone number	他的电话号是多少？	Tā de diànhuàhào shì duōshao?	What's his phone number?	Full form: 电话号码 (diànhuà hàomǎ).
 电子	diànzǐ	electronic; electron	这是电子版的。	Zhè shì diànzǐbǎn de.	This is the electronic version.	Almost always used as a modifier prefix, not standalone.
-新	xīn	new	这是我的新手机。	Zhè shì wǒ de xīn shǒujī.	This is my new phone.	
+新	xīn	new	这是我的新手机。	Zhè shì wǒ de xīn shǒujī.	This is my new phone.	Attributive directly on nouns without 的: 新手机, 新工作. Use 新的 for the predicative sense: 我的手机是新的.
 工人	gōngrén	worker	工厂里有很多工人。	Gōngchǎng lǐ yǒu hěn duō gōngrén.	There are many workers in the factory.	
 工厂	gōngchǎng	factory	这家工厂很大。	Zhè jiā gōngchǎng hěn dà.	This factory is big.	Measure word: 家 (jiā).
 房间	fángjiān	room	我的房间很小。	Wǒ de fángjiān hěn xiǎo.	My room is small.	Measure word: 间 (jiān) — same character as the second syllable.
@@ -372,3 +372,17 @@
 前面	qiánmiàn	in front / ahead	学校前面有一家咖啡店。	Xuéxiào qiánmiàn yǒu yì jiā kāfēidiàn.	There's a café in front of the school.	Locative noun — goes AFTER the reference object (学校前面), opposite of English.
 后面	hòumiàn	behind / at the back	他坐在我后面。	Tā zuò zài wǒ hòumiàn.	He's sitting behind me.	Locative noun — goes AFTER the reference object (我后面), opposite of English.
 点	diǎn	o'clock; dot / point; a little; to order (food); to click	现在三点。	Xiànzài sān diǎn.	It's three o'clock now.	As "o'clock" the measure word is built-in: 三点, NOT *三个点.
+外公	wàigōng	grandpa (maternal)	外公喜欢下棋。	Wàigōng xǐhuan xiàqí.	Grandpa likes to play chess.	Paternal grandfather is 爷爷 (yéye). Northern colloquial variant: 姥爷 (lǎoye).
+外婆	wàipó	grandma (maternal)	外婆住在南方。	Wàipó zhù zài nánfāng.	Grandma lives in the south.	Paternal grandmother is 奶奶 (nǎinai). Northern colloquial variant: 姥姥 (lǎolao).
+搬家	bānjiā	to move (residence)	我下个月要搬家。	Wǒ xià ge yuè yào bānjiā.	I'm moving next month.	V-O compound — splittable: 搬了两次家 (moved twice). Bare 搬 alone = "to move/carry (things)".
+原来的	yuánlái de	original / former / previous	这是我原来的电话号。	Zhè shì wǒ yuánlái de diànhuàhào.	This is my old phone number.	Bare 原来 (without 的) also means "it turns out (that)…" — a discovery marker (原来是你！ = So it was you!). With 的 it's the attributive "former/original".
+另一个	lìng yí ge	another / the other one	我要另一个。	Wǒ yào lìng yí ge.	I want another one.	另 requires a measure word (另一个, 另一本, 另一种). Covers both "another (additional)" and "the other (of a pair)" — context decides.
+上班	shàngbān	to go to work; to be at work	我八点上班。	Wǒ bā diǎn shàngbān.	I go to work at 8.	V-O compound — splittable: 上了一天班. Also means "on the clock / at work": 我在上班 = I'm at work right now.
+下班	xiàbān	to get off work	我五点下班。	Wǒ wǔ diǎn xiàbān.	I get off work at 5.	V-O compound — splittable: 下了班 = after getting off work.
+上课	shàngkè	to attend class; class is in session	我们九点上课。	Wǒmen jiǔ diǎn shàngkè.	We have class at 9.	V-O compound — splittable. Covers both "attend class" (student view) and "class starts / is in session" (general).
+下课	xiàkè	class ends / to get out of class	下课后我们去吃饭吧。	Xiàkè hòu wǒmen qù chīfàn ba.	Let's go eat after class.	V-O compound — splittable: 下了课.
+打电话	dǎ diànhuà	to make a phone call	我要给妈妈打电话。	Wǒ yào gěi māma dǎ diànhuà.	I need to call mom.	V-O compound. Verb is 打 ("hit"), NOT *做电话. Splittable with measure word: 打了一个电话.
+给…打电话	gěi … dǎ diànhuà	to call (someone)	我给你打电话。	Wǒ gěi nǐ dǎ diànhuà.	I'll call you.	Pattern: 给 + person + 打电话. The recipient goes BEFORE the verb phrase (marked by 给), opposite of English "call + person".
+打	dǎ	to hit; (highly polysemous verb)	别打他！	Bié dǎ tā!	Don't hit him!	Meaning depends heavily on the object: 打电话 (make a call), 打球 (play a ball game), 打车 (hail a taxi), 打字 (type).
+饺子	jiǎozi	dumpling (jiaozi)	我们晚上吃饺子。	Wǒmen wǎnshang chī jiǎozi.	We're having dumplings tonight.	
+包子	bāozi	steamed bun (with filling)	我要一个肉包子。	Wǒ yào yí ge ròu bāozi.	I want a meat bun.	Thick-dough steamed bun; distinct from 饺子 (thin-wrapper dumpling).
