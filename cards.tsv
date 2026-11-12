@@ -129,7 +129,7 @@
 女儿	nǚ'ér	daughter	她有一个女儿。	Tā yǒu yí ge nǚ'ér.	She has a daughter.	Son = 儿子 (érzi).
 几	jǐ	how many (small number); what (in date/time questions)	你有几个孩子？	Nǐ yǒu jǐ ge háizi?	How many children do you have?	Used when expecting a small number (usually under 10). For larger numbers, use 多少 (duōshao). For dates and times, 几 takes the position of the number being asked: 几号, 几点, 几岁.
 岁	suì	years old / years of age	我二十岁。	Wǒ èrshí suì.	I am twenty years old.	No verb needed: 我二十岁 (not *我是二十岁). Acts as a measure word for age.
-多	duō	many / much / more; how (to what degree)	你多大？	Nǐ duō dà?	How old are you?	Opposite: 少 (shǎo, few/less). As an adverb before adjectives in questions, asks "how much/big/old": 多大 (how old/big), 多长 (how long), 多远 (how far).
+多	duō	many / much / more; how (to what degree)	你多大？	Nǐ duō dà?	How old are you?	Opposite: 少 (shǎo, few/less). As an adverb before adjectives in questions, asks "how much/big/old": 多大 (how old/big), 多长 (how long), 多远 (how far). Before a verb, it means to do more of the action: 多吃一点儿 (eat a little more).
 大	dà	big; (of age) old	你女儿多大了？	Nǐ nǚ'ér duō dà le?	How old is your daughter?	For age, 大 means "old/grown": 多大 = "how old". Opposite: 小 (xiǎo, small/young).
 了	le	(particle indicating change of state)	他是大学生了。	Tā shì dàxuéshēng le.	He's a university student now.	At end of sentence: signals a new situation or change ("now", "already"). After a verb: marks completed action (我吃了 = "I ate"). Two distinct uses — both very common.
 去年	qùnián	last year	去年我去了中国。	Qùnián wǒ qù le Zhōngguó.	Last year I went to China.	
@@ -147,7 +147,7 @@
 说	shuō	to speak / to say	他说得很快。	Tā shuō de hěn kuài.	He speaks very fast.	说话 (shuō huà) = "to speak/talk" generally. 说 + language = speak that language: 说中文.
 现在	xiànzài	now / at present	现在几点？	Xiànzài jǐ diǎn?	What time is it now?	Time adverb — placed at the start of the sentence or before the verb.
 饿	è	hungry	我很饿。	Wǒ hěn è.	I'm very hungry.	An adjective, so usually paired with 很.
-少	shǎo	few / little / less	这里人很少。	Zhèlǐ rén hěn shǎo.	There are few people here.	Opposite: 多 (duō, many/more).
+少	shǎo	few / little / less	这里人很少。	Zhèlǐ rén hěn shǎo.	There are few people here.	Opposite: 多 (duō, many/more). Before a verb, it means to do less of the action: 少吃一点儿 (eat a little less).
 小	xiǎo	small; young	这个房间很小。	Zhège fángjiān hěn xiǎo.	This room is very small.	Opposite: 大 (dà, big).
 办公室	bàngōngshì	office	老师在办公室。	Lǎoshī zài bàngōngshì.	The teacher is in the office.	
 哪儿	nǎr	where	你去哪儿？	Nǐ qù nǎr?	Where are you going?	Equivalent to 哪里 (nǎlǐ). 哪儿 is more common in northern China (especially Beijing); 哪里 more common in the south and Taiwan.
@@ -445,7 +445,7 @@
 洗手间	xǐshǒujiān	restroom	洗手间在哪儿？	Xǐshǒujiān zài nǎr?	Where's the restroom?	Literally "hand-washing room". The polite, universal term. Synonym: 卫生间 (wèishēngjiān).
 洗	xǐ	to wash	我在洗手。	Wǒ zài xǐ shǒu.	I'm washing my hands.	Versatile: 洗手 (wash hands), 洗脸 (wash face), 洗澡 (take a shower/bath), 洗衣服 (do laundry).
 树	shù	tree	公园里有很多树。	Gōngyuán lǐ yǒu hěn duō shù.	There are many trees in the park.	Measure word: 棵 (kē, for plants/trees).
-花	huā	flower; to spend (money/time)	这朵花很漂亮。	Zhè duǒ huā hěn piàoliang.	This flower is beautiful.	Also a verb: 花钱 (spend money), 花时间 (spend time). Measure word for flowers: 朵 (duǒ).
+花	huā	flower; colorful / patterned; to spend (money/time)	这朵花很漂亮。	Zhè duǒ huā hěn piàoliang.	This flower is beautiful.	Also a verb: 花钱 (spend money), 花时间 (spend time). Measure word for flowers: 朵 (duǒ). Before a noun, 花 can describe a colorful or patterned appearance: 花衣服 (colorful/patterned clothing).
 河	hé	river	这条河很长。	Zhè tiáo hé hěn cháng.	This river is very long.	Measure word: 条. ⚠️ Homophone: 和 (hé, "and") — same tone, different character.
 看看	kànkan	to take a look / to have a peek	我去看看。	Wǒ qù kànkan.	I'll go take a look.	Verb reduplication — softens the action ("just have a quick look"). Second syllable becomes neutral tone.
 没事	méishì	no worries / it's nothing / I'm fine	——谢谢！——没事。	—Xièxie! —Méishì.	—Thanks! —No worries.	Works as a reply to both 谢谢 (thanks) and 对不起 (sorry). Also means "nothing's wrong / I'm fine": 你没事吧？ = Are you OK?
@@ -540,3 +540,28 @@
 甜	tián	sweet	这个蛋糕很甜。	Zhège dàngāo hěn tián.	This cake is sweet.	
 路	lù	road; path; way	这条路很长。	Zhè tiáo lù hěn cháng.	This road is long.	Measure word: 条.
 在路上	zài lùshang	on the road; on the way	我还在路上。	Wǒ hái zài lùshang.	I am still on the way.	Can describe being physically on a road or currently traveling toward a destination.
+部门	bùmén	department	她在销售部门工作。	Tā zài xiāoshòu bùmén gōngzuò.	She works in the sales department.	An organizational division within a company or institution.
+冬天	dōngtiān	winter	冬天很冷。	Dōngtiān hěn lěng.	Winter is cold.	
+秋天	qiūtiān	autumn / fall	秋天天气很凉快。	Qiūtiān tiānqì hěn liángkuai.	The weather is cool in autumn.	
+夏天	xiàtiān	summer	夏天很热。	Xiàtiān hěn rè.	Summer is hot.	
+春天	chūntiān	spring	春天天气变暖了。	Chūntiān tiānqì biànnuǎn le.	The weather becomes warmer in spring.	
+四个季节	sì ge jìjié	four seasons	一年有四个季节。	Yì nián yǒu sì ge jìjié.	A year has four seasons.	个 is the measure word for 季节.
+季节	jìjié	season	你最喜欢哪个季节？	Nǐ zuì xǐhuan nǎge jìjié?	Which season do you like best?	Refers to a season of the year.
+千	qiān	thousand	这里有一千个人。	Zhèlǐ yǒu yì qiān ge rén.	There are one thousand people here.	
+没买	méi mǎi	did not buy	我昨天没买水果。	Wǒ zuótiān méi mǎi shuǐguǒ.	I did not buy fruit yesterday.	没 negates the completed action; do not add 了 after 买.
+为什么	wèishénme	why	你为什么学中文？	Nǐ wèishénme xué Zhōngwén?	Why do you study Chinese?	Placed before the verb or predicate being questioned.
+冰激凌	bīngjilíng	ice cream	我想吃冰激凌。	Wǒ xiǎng chī bīngjilíng.	I want to eat ice cream.	
+加拿大	Jiānádà	Canada	我朋友住在加拿大。	Wǒ péngyou zhù zài Jiānádà.	My friend lives in Canada.	Proper name; capitalize the pinyin.
+雨伞	yǔsǎn	umbrella	下雨了，带上雨伞吧。	Xià yǔ le, dài shang yǔsǎn ba.	It is raining; take an umbrella.	Measure word: 把.
+生	shēng	to give birth to; to produce / generate	她生了一个孩子。	Tā shēng le yí ge háizi.	She gave birth to a child.	Can describe literal birth or the production or generation of something.
+出生	chūshēng	to be born	我出生在美国。	Wǒ chūshēng zài Měiguó.	I was born in the United States.	Pronounce 出 chū with first tone and 生 shēng with first tone.
+畜生	chùsheng	domestic animal; beast (insult)	过去这里养了很多畜生。	Guòqù zhèlǐ yǎng le hěn duō chùsheng.	In the past, many domestic animals were raised here.	畜 is fourth tone, and 生 is neutral tone. When applied to a person, it is a strong insult.
+女朋友	nǚpéngyou	girlfriend	她是我的女朋友。	Tā shì wǒ de nǚpéngyou.	She is my girlfriend.	
+男朋友	nánpéngyou	boyfriend	他是我的男朋友。	Tā shì wǒ de nánpéngyou.	He is my boyfriend.	
+饣	shí	food radical (食字旁)	饮、饭、饱都有饣字旁。	Yǐn, fàn, bǎo dōu yǒu shízìpáng.	饮, 饭, 饱 all have the food radical.	Simplified form of 食 (shí, food) as a left-side radical. Marks characters related to food and drink.
+饮	yǐn	to drink	请勿饮酒。	Qǐng wù yǐn jiǔ.	Please do not drink alcohol.	Primarily used in formal language and compounds.
+饮料	yǐnliào	beverage / drink	你想喝什么饮料？	Nǐ xiǎng hē shénme yǐnliào?	What beverage would you like to drink?	
+饱	bǎo	full; having eaten enough	我吃饱了。	Wǒ chī bǎo le.	I am full.	Used after an eating verb as a result complement indicating enough.
+包	bāo	bag; package; to wrap	这个包很重。	Zhège bāo hěn zhòng.	This bag is heavy.	As a noun, it can refer to a bag or package.
+睡饱了	shuì bǎo le	got enough sleep	我终于睡饱了。	Wǒ zhōngyú shuì bǎo le.	I finally got enough sleep.	饱 is a result complement indicating that the amount of sleep was sufficient.
+睡得很好	shuì de hěn hǎo	slept very well	我昨晚睡得很好。	Wǒ zuówǎn shuì de hěn hǎo.	I slept very well last night.	得 connects the verb to a description of how the action was performed.
